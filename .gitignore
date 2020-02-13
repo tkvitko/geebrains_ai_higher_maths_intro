@@ -1,1 +1,4 @@
 *.JPG
+*.zip
+test*
+venv/lib/python3.7/site-packages/*
