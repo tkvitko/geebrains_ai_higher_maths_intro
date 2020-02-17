@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="384dff67-387f-407d-be6a-b1bbf8095ced" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson_2_task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../geekbrains_ai_algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geekbrains_ai_algorithms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../geekbrains_ai_algorithms/lesson_3/lesson_3_task_8_sum_strings_in_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../geekbrains_ai_algorithms/lesson_3/lesson_3_task_8_sum_strings_in_matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../geekbrains_ai_algorithms/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../geekbrains_ai_algorithms/test3.py" afterDir="false" />
@@ -19,10 +22,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../geekbrains_ai_algorithms" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XkExjE0JnhERk9WODC7pTWvLPQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,28 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.lesson_1_task_4">
-    <configuration name="lesson_01_theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="geebrains_ai_higher_maths_intro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_01_theory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lesson_2_task_1">
     <configuration name="lesson_1_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="geebrains_ai_higher_maths_intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +72,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1_task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_2_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geebrains_ai_higher_maths_intro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2_task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson_2_task_1" />
         <item itemvalue="Python.lesson_1_task_4" />
         <item itemvalue="Python.lesson_1_task_1" />
         <item itemvalue="Python.lesson_3_task_8_sum_strings_in_matrix" />
         <item itemvalue="Python.lesson_3_task_9_max_of_mins_of_columns_matrix" />
-        <item itemvalue="Python.lesson_01_theory" />
       </list>
     </recent_temporary>
   </component>
@@ -174,25 +179,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1581629554930">
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1581950393660">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581629554930" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
     <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1581629507967" />
-    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1581629554929">
+    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1581950393660">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1581629554929" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
     <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1581629507967" />
-    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1581629554928">
+    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1581950393660">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1581629554928" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
     <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1581629507966" />
-    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1581629554929">
+    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1581950393660">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1581629554929" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
     <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1581629507967" />
   </component>
 </project>
