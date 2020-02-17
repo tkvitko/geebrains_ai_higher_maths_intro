@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="384dff67-387f-407d-be6a-b1bbf8095ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_2_task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2_task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2_task_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../geekbrains_ai_algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geekbrains_ai_algorithms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../geekbrains_ai_algorithms/lesson_3/lesson_3_task_8_sum_strings_in_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../geekbrains_ai_algorithms/lesson_3/lesson_3_task_8_sum_strings_in_matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../geekbrains_ai_algorithms/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../geekbrains_ai_algorithms/test3.py" afterDir="false" />
@@ -179,25 +177,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1581950393660">
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1581950590146">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1581950590146" />
     <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1581629507967" />
-    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1581950393660">
+    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1581950590145">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1581950590145" />
     <state width="1419" height="206" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1581629507967" />
-    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1581950393660">
+    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1581950590144">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1581950590144" />
     <state width="1419" height="206" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1581629507966" />
-    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1581950393660">
+    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1581950590145">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1581950393660" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1581950590145" />
     <state width="1419" height="206" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1581629507967" />
   </component>
 </project>

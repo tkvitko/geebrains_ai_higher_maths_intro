@@ -15,12 +15,12 @@ a = (y3 - (x3 * (y2 - y1) + x2 * y1 - x1 * y2)/(x2 - x1))/(x3 * (x3 - x1 - x2) +
 b = (y2 - y1)/(x2 - x1) - a * (x1 + x2)
 c = (x2 * y1 - x1 * y2)/(x2 - x1) + a * x1 * x2
 
+# Проверка
+assert y1 == a * x1**2 + b * x1 + c
+
 # Приведение к красивой строке (без лишних плюсов перед минусами)
 b_str = str(b) if b < 0 else '+ '+str(b)
 c_str = str(c) if c < 0 else '+ '+str(c)
-
-# Проверка
-assert y1 == a * x1**2 + b * x1 + c
 
 # Вывод результата
 print(f'Y = {a}x^2 {b_str}x {c_str}')
